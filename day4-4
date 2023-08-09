@@ -1,0 +1,14 @@
+@relation exp1
+@attribute person{gopu,babu,baby,gopal,krishna,jai,dev,malini,hema,anu}
+@attribute gender{yes,no}
+@data
+gopu,yes
+babu,yes
+baby,yes
+gopal,no
+krishna,yes
+jai,no
+dev,no
+malini,yes
+hema,yes
+anu,yes
