@@ -1,0 +1,13 @@
+@relation exp1
+@attribute emp_id numeric 
+@attribute gender{male,female}
+@attribute age numeric
+@attribute salary numeric
+@attribute  credit numeric
+@data
+111,male,28,1500000,39
+222,male,25,1500000,27
+333,female,26,1600000,42
+444,female,25,1600000,40
+555,female,30,1700000,64
+666,male,29,2000000,72
